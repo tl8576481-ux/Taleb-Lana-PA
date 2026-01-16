@@ -7,4 +7,4 @@ This repository contains:
 Tools used:
 - Overleaf (LaTeX)
 - Zotero (references)
-- GitHub (versioning and sharing
+- GitHub (versioning and sharing)
